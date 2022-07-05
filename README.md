@@ -15,7 +15,7 @@ This theme was designed to be simple, it is based on color scheme of the old Tex
 
 ## Preview
 <p align="center">
-<img  src="https://raw.githubusercontent.com/damc-code/themes/master/damc.textpad-color.images.examples/textpad.png"  
+<img  src="https://raw.githubusercontent.com/damc-code/damc.textpad-color-theme/main/images/screen.png"  
 title="TextPad" />
 </p>
 Tested languages: Rust, Go, Python, Ruby, Java, Javascript, C#, C, C++, Typescript, PHP, Elixir, Groovy, Lua, Clojure, HTML
@@ -31,14 +31,22 @@ Follow these steps:
 {
     "editor.fontFamily": "MonoLisa, 'Courier New', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
+    "editor.occurrencesHighlight": false,
+    "editor.selectionHighlight": false,
+    "editor.matchBrackets": "never",
     "workbench.colorCustomizations": {
         "editorBracketHighlight.foreground1": "#ff0000",
         "editorBracketHighlight.foreground2": "#ff0000",
+        "editorBracketHighlight.foreground3": "#ff0000",
+        "editorBracketHighlight.foreground4": "#ff0000",
+        "editorBracketHighlight.foreground5": "#ff0000",
+        "editorBracketHighlight.foreground6": "#ff0000",
         "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
     },
     "workbench.colorTheme": "textpad-classic-color-theme",
     "workbench.iconTheme": "textpad-icon-theme",
     "workbench.editor.tabCloseButton": "left",
     "workbench.editor.showIcons": false,
+    "breadcrumbs.enabled": false,
 }
 ```
