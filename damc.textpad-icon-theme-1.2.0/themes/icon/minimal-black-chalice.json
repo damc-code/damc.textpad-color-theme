@@ -1,0 +1,339 @@
+{
+  "folder": "folder.inverse",
+  "file": "document.inverse",
+  "folderExpanded": "folder.expanded.inverse",
+  "fileExtensions": {
+    "lua": "code.inverse",
+    "pug": "code.inverse",
+    "go": "code.inverse",
+    "cxx": "code.inverse",
+    "bmp": "image.inverse",
+    "rei": "code.inverse",
+    "el": "lisp.inverse",
+    "scala": "code.inverse",
+    "mdx": "markdown.inverse",
+    "js": "code.inverse",
+    "png": "image.inverse",
+    "v": "code.inverse",
+    "gif": "image.inverse",
+    "htm": "bracket.inverse",
+    "hs": "lambda.inverse",
+    "ps1": "script.inverse",
+    "cl": "lisp.inverse",
+    "lisp": "lisp.inverse",
+    "bat": "script.inverse",
+    "fasl": "lisp.inverse",
+    "coffee": "code.inverse",
+    "tex": "code.inverse",
+    "lsp": "lisp.inverse",
+    "yml": "script.inverse",
+    "swift": "code.inverse",
+    "erl": "code.inverse",
+    "scm": "code.inverse",
+    "re": "code.inverse",
+    "cs": "code.inverse",
+    "P": "code.inverse",
+    "exs": "code.inverse",
+    "haxe": "code.inverse",
+    "tsx": "bracket.inverse",
+    "bash": "script.inverse",
+    "css": "style.inverse",
+    "scss": "style.inverse",
+    "cc": "code.inverse",
+    "hh": "code.inverse",
+    "purs": "code.inverse",
+    "lhs": "lambda.inverse",
+    "l": "lisp.inverse",
+    "yaml": "script.inverse",
+    "pro": "code.inverse",
+    "mjs": "code.inverse",
+    "ts": "code.inverse",
+    "rb": "code.inverse",
+    "sass": "style.inverse",
+    "ml": "code.inverse",
+    "litcoffee": "code.inverse",
+    "java": "code.inverse",
+    "c": "code.inverse",
+    "mk": "script.inverse",
+    "phtml": "bracket.inverse",
+    "rs": "code.inverse",
+    "org": "markdown.inverse",
+    "less": "style.inverse",
+    "gd": "code.inverse",
+    "vue": "code.inverse",
+    "idr": "code.inverse",
+    "ex": "code.inverse",
+    "cshtml": "bracket.inverse",
+    "hxml": "code.inverse",
+    "h": "code.inverse",
+    "jade": "code.inverse",
+    "fish": "script.inverse",
+    "jl": "code.inverse",
+    "svg": "bracket.inverse",
+    "ss": "code.inverse",
+    "csproj": "bracket.inverse",
+    "php": "code.inverse",
+    "rst": "markdown.inverse",
+    "mli": "code.inverse",
+    "elv": "script.inverse",
+    "elc": "lisp.inverse",
+    "hpp": "code.inverse",
+    "sh": "script.inverse",
+    "cmd": "script.inverse",
+    "cpp": "code.inverse",
+    "json": "curly.inverse",
+    "jsx": "bracket.inverse",
+    "wat": "lisp.inverse",
+    "jpeg": "image.inverse",
+    "ico": "image.inverse",
+    "hxx": "code.inverse",
+    "jpg": "image.inverse",
+    "xml": "bracket.inverse",
+    "zsh": "script.inverse",
+    "mll": "code.inverse",
+    "py": "code.inverse",
+    "styl": "style.inverse",
+    "fs": "code.inverse",
+    "clj": "lisp.inverse",
+    "cljs": "lisp.inverse",
+    "map": "curly.inverse",
+    "dart": "code.inverse",
+    "elm": "code.inverse",
+    "html": "bracket.inverse",
+    "vb": "code.inverse",
+    "md": "markdown.inverse"
+  },
+  "hidesExplorerArrows": false,
+  "iconDefinitions": {
+    "lisp.inverse": {
+      "fontCharacter": "\\E011",
+      "fontColor": "#c5c5c5"
+    },
+    "lisp.normal": {
+      "fontCharacter": "\\E011",
+      "fontColor": "#424242"
+    },
+    "markdown.inverse": {
+      "fontCharacter": "\\E010",
+      "fontColor": "#c5c5c5"
+    },
+    "curly.inverse": {
+      "fontCharacter": "\\E004",
+      "fontColor": "#c5c5c5"
+    },
+    "folder.normal": {
+      "fontCharacter": "\\E000",
+      "fontColor": "#424242"
+    },
+    "lambda.normal": {
+      "fontCharacter": "\\E009",
+      "fontColor": "#424242"
+    },
+    "bracket.normal": {
+      "fontCharacter": "\\E005",
+      "fontColor": "#424242"
+    },
+    "script.normal": {
+      "fontCharacter": "\\E007",
+      "fontColor": "#424242"
+    },
+    "lambda.inverse": {
+      "fontCharacter": "\\E009",
+      "fontColor": "#c5c5c5"
+    },
+    "bracket.inverse": {
+      "fontCharacter": "\\E005",
+      "fontColor": "#c5c5c5"
+    },
+    "folder.expanded.normal": {
+      "fontCharacter": "\\E001",
+      "fontColor": "#424242"
+    },
+    "image.inverse": {
+      "fontCharacter": "\\E003",
+      "fontColor": "#c5c5c5"
+    },
+    "curly.normal": {
+      "fontCharacter": "\\E004",
+      "fontColor": "#424242"
+    },
+    "image.normal": {
+      "fontCharacter": "\\E003",
+      "fontColor": "#424242"
+    },
+    "style.inverse": {
+      "fontCharacter": "\\E006",
+      "fontColor": "#c5c5c5"
+    },
+    "markdown.normal": {
+      "fontCharacter": "\\E010",
+      "fontColor": "#424242"
+    },
+    "document.inverse": {
+      "fontCharacter": "\\E002",
+      "fontColor": "#c5c5c5"
+    },
+    "folder.expanded.inverse": {
+      "fontCharacter": "\\E001",
+      "fontColor": "#c5c5c5"
+    },
+    "document.normal": {
+      "fontCharacter": "\\E002",
+      "fontColor": "#424242"
+    },
+    "folder.inverse": {
+      "fontCharacter": "\\E000",
+      "fontColor": "#c5c5c5"
+    },
+    "style.normal": {
+      "fontCharacter": "\\E006",
+      "fontColor": "#424242"
+    },
+    "code.normal": {
+      "fontCharacter": "\\E008",
+      "fontColor": "#424242"
+    },
+    "code.inverse": {
+      "fontCharacter": "\\E008",
+      "fontColor": "#c5c5c5"
+    },
+    "script.inverse": {
+      "fontCharacter": "\\E007",
+      "fontColor": "#c5c5c5"
+    }
+  },
+  "languageIds": {
+    "docker": "script.inverse"
+  },
+  "light": {
+    "folder": "folder.normal",
+    "folderExpanded": "folder.expanded.normal",
+    "file": "document.normal",
+    "fileNames": {
+      "makefile": "script.normal",
+      "dockerfile": "script.normal"
+    },
+    "fileExtensions": {
+      "lua": "code.normal",
+      "pug": "code.normal",
+      "go": "code.normal",
+      "cxx": "code.normal",
+      "bmp": "image.normal",
+      "rei": "code.normal",
+      "el": "lisp.normal",
+      "scala": "code.normal",
+      "mdx": "markdown.normal",
+      "js": "code.normal",
+      "png": "image.normal",
+      "v": "code.normal",
+      "gif": "image.normal",
+      "htm": "bracket.normal",
+      "hs": "lambda.normal",
+      "ps1": "script.normal",
+      "cl": "lisp.normal",
+      "lisp": "lisp.normal",
+      "bat": "script.normal",
+      "fasl": "lisp.normal",
+      "coffee": "code.normal",
+      "tex": "code.normal",
+      "lsp": "lisp.normal",
+      "yml": "script.normal",
+      "swift": "code.normal",
+      "erl": "code.normal",
+      "scm": "code.normal",
+      "re": "code.normal",
+      "cs": "code.normal",
+      "P": "code.normal",
+      "exs": "code.normal",
+      "haxe": "code.normal",
+      "tsx": "bracket.normal",
+      "bash": "script.normal",
+      "css": "style.normal",
+      "scss": "style.normal",
+      "cc": "code.normal",
+      "hh": "code.normal",
+      "purs": "code.normal",
+      "lhs": "lambda.normal",
+      "l": "lisp.normal",
+      "yaml": "script.normal",
+      "pro": "code.normal",
+      "mjs": "code.normal",
+      "ts": "code.normal",
+      "rb": "code.normal",
+      "sass": "style.normal",
+      "ml": "code.normal",
+      "litcoffee": "code.normal",
+      "java": "code.normal",
+      "c": "code.normal",
+      "mk": "script.normal",
+      "phtml": "bracket.normal",
+      "rs": "code.normal",
+      "org": "markdown.normal",
+      "less": "style.normal",
+      "gd": "code.normal",
+      "vue": "code.normal",
+      "idr": "code.normal",
+      "ex": "code.normal",
+      "cshtml": "bracket.normal",
+      "hxml": "code.normal",
+      "h": "code.normal",
+      "jade": "code.normal",
+      "fish": "script.normal",
+      "jl": "code.normal",
+      "svg": "bracket.normal",
+      "ss": "code.normal",
+      "csproj": "bracket.normal",
+      "php": "code.normal",
+      "rst": "markdown.normal",
+      "mli": "code.normal",
+      "elv": "script.normal",
+      "elc": "lisp.normal",
+      "hpp": "code.normal",
+      "sh": "script.normal",
+      "cmd": "script.normal",
+      "cpp": "code.normal",
+      "json": "curly.normal",
+      "jsx": "bracket.normal",
+      "wat": "lisp.normal",
+      "jpeg": "image.normal",
+      "ico": "image.normal",
+      "hxx": "code.normal",
+      "jpg": "image.normal",
+      "xml": "bracket.normal",
+      "zsh": "script.normal",
+      "mll": "code.normal",
+      "py": "code.normal",
+      "styl": "style.normal",
+      "fs": "code.normal",
+      "clj": "lisp.normal",
+      "cljs": "lisp.normal",
+      "map": "curly.normal",
+      "dart": "code.normal",
+      "elm": "code.normal",
+      "html": "bracket.normal",
+      "vb": "code.normal",
+      "md": "markdown.normal"
+    },
+    "languageIds": {
+      "docker": "script.normal"
+    }
+  },
+  "fileNames": {
+    "makefile": "script.inverse",
+    "dockerfile": "script.inverse"
+  },
+  "fonts": [
+    {
+      "id": "chalice",
+      "src": [
+        {
+          "path": "./dist/ChaliceIcons-Regular.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "regular",
+      "style": "regular",
+      "size": "1.3em"
+    }
+  ]
+}

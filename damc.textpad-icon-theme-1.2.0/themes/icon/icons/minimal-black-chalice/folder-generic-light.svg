@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="folder-generic-light.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="53.125"
+     inkscape:cx="8"
+     inkscape:cy="6.4941176"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+  <title
+     id="title2">folder-generic-light</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="minimal-mono"
+     transform="translate(-26)"
+     fill="#000000"
+     fill-rule="nonzero"
+     style="fill:#656565;fill-opacity:1;stroke:none;stroke-width:1">
+    <g
+       id="light"
+       style="fill:#656565;fill-opacity:1">
+      <g
+         id="folder"
+         transform="translate(26)"
+         style="fill:#656565;fill-opacity:1">
+        <polygon
+           id="lower"
+           opacity="0.2"
+           points="15,5 1,5 1,13 15,13 "
+           style="opacity:1;fill:#656565;fill-opacity:1"
+           transform="matrix(1.0255463,0,0,1.042808,-0.25142857,-0.28933373)" />
+        <polygon
+           id="upper"
+           opacity="0.1"
+           points="6,3 15,3 15,4 1,4 1,1 5,1 "
+           style="fill:#656565;fill-opacity:1" />
+        <path
+           d="M 6.618034,2 H 15 c 0.552285,0 1,0.4477153 1,1 v 10 c 0,0.552285 -0.447715,1 -1,1 H 1 C 0.44771525,14 0,13.552285 0,13 V 1 C 0,0.44771525 0.44771525,0 1,0 H 5 C 5.3787721,0 5.7250352,0.21400238 5.8944272,0.5527864 Z M 1,5 v 8 H 15 V 5 Z M 1,1 V 4 H 15 V 3 H 6 L 5,1 Z"
+           id="stroke"
+           style="fill:#656565;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

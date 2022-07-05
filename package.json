@@ -1,0 +1,86 @@
+{
+	"name": "textpad-color-theme",
+	"displayName": "TextPad",
+	"description": "Minimalist theme, enable you to focus on just writing code",
+	"version": "1.19.24",
+	"publisher": "damc",
+	"maintainers": [
+		"damc"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#DDDDDD",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"scheme",
+		"color-theme",
+		"minimal",
+		"sublime",
+		"light",
+		"simple",
+		"clear",
+		"Rustlang",
+		"Rust",
+		"textpad",
+		"java",
+		"javascript",
+		"helios",
+		"Go",
+		"Golang",
+		"PHP",
+		"Angular",
+		"React",
+		"NodeJS",
+		"nineties",
+		"old",
+		"school",
+		"ruby",
+		"python",
+		"C#",
+		"C",
+		"C++",
+		"Typescript",
+		"Elixir",
+		"Groovy",
+		"Lua",
+		"HTML",
+		"Clojure",
+		"Groovy"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"id": "textpad-classic-color-theme",
+				"label": "TextPad",
+				"uiTheme": "vs",
+				"path": "./theme/textpad-classic-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/damc-code/themes.git"
+	},
+	"bugs": {
+		"url": "https://github.com/damc-code/themes.git/issues"
+	},
+	"homepage": "",
+	"license": "MIT",
+	"__metadata": {
+		"id": "ab1aea52-b8a9-4793-aa19-b032540069f4",
+		"publisherId": "c9ce9377-81b2-4c17-af7b-b7b6aa4d8c3c",
+		"publisherDisplayName": "damc",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false
+	}
+}
